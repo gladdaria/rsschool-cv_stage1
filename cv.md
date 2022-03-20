@@ -61,6 +61,6 @@ _____
 #### *My projects*
   
   
-- https://rolling-scopes-school.github.io/gladdaria-JSFEPRESCHOOL/portfolio/
+- [Portfolio website](https://rolling-scopes-school.github.io/gladdaria-JSFEPRESCHOOL/portfolio/)
 
-- https://rolling-scopes-school.github.io/gladdaria-JSFEPRESCHOOL/tic-tac-toe/
+- [Tic-Tac-Toe game](https://rolling-scopes-school.github.io/gladdaria-JSFEPRESCHOOL/tic-tac-toe/)
