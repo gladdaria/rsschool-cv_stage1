@@ -8,6 +8,8 @@ E-mail: gladyscheva.dasha@yandex.ru
 
 GitHub: gladdaria
 
+Dicsord: Daria Gladysheva (@gladdaria)
+
 -----
 #### *About me*
 
