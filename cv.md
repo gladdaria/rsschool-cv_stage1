@@ -24,7 +24,6 @@ I'm an aspiring front-end developer.
 
 _____
 
-----
 #### *Education and courses*
 1.Tertiary education
 
@@ -47,3 +46,19 @@ December 2021 - February 2022 *RS School*
 JS/FE Pre-School 2022
 
 _____
+
+
+#### *Languages*
+
+- Russian: Native
+
+- English: C1 (IELTS overall band score 8.0)
+
+----
+
+#### *My projects*
+  
+  
+- https://rolling-scopes-school.github.io/gladdaria-JSFEPRESCHOOL/portfolio/
+
+- https://rolling-scopes-school.github.io/gladdaria-JSFEPRESCHOOL/tic-tac-toe/
